@@ -1,4 +1,4 @@
-# Dark Pool AMM Hook 🌊🔒
+# Dark Pool AMM Hook 
 
 > **Institutional-grade privacy for large liquidity providers without sacrificing DeFi composability**
 
